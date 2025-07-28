@@ -28,33 +28,33 @@ File: ecommerce_furniture_dataset_2024.csv
 * Applied basic statistical summary to understand scale and distribution of Sales and Profit.
 
 # 📊 Exploratory Data Analysis (EDA)
-*  Top-Selling Products
+### Top-Selling Products
 Identified top 10 furniture items by sales volume.
 
 Insight: Certain product types consistently outperform others across all customers.
 
-*  Top Categories by Revenue
+### Top Categories by Revenue
 Analyzed total sales and profit by furniture category.
 
 Insight: Some categories generate high sales but relatively lower profit, indicating potential pricing or cost issues.
 
-*  Profit vs Sales Analysis
+### Profit vs Sales Analysis
 Scatter plots used to understand the correlation between sales and profit.
 
 Insight: High sales do not always translate into high profit — some products may be sold at discount or low margin.
 
-*  Customer-Wise Sales Performance
+### Customer-Wise Sales Performance
 Identified most valuable customers based on total spending.
 
 Insight: A small group of customers contributes a large share of revenue — useful for targeting in loyalty programs.
 
-*  Profitability Heatmap
+### Profitability Heatmap
 Used a heatmap to compare product-wise profitability.
 
 Insight: Helped identify underperforming or loss-making SKUs.
 
 # 📈 Visualizations Used
-* Bar plots (Top Products & Categories)
+### Bar plots (Top Products & Categories)
   Insights:
 
 Certain products like [e.g., Bookcase, Chairs] generate higher sales consistently.
@@ -66,7 +66,7 @@ The Office Furniture category, while high in sales, has lower margins compared t
 Decision Use:
 Focus marketing campaigns on high-profit and high-sales products. Re-evaluate low-profit high-sales items for pricing optimization.
 
-* Pie chart (Category share)
+### Pie chart (Category share)
   
 Insights:
 
@@ -79,7 +79,7 @@ Diversify offerings in underrepresented but potentially profitable categories. A
 
   
 
-* Scatter plots (Sales vs Profit)
+### Scatter plots (Sales vs Profit)
 
   Insights:
 
@@ -92,7 +92,7 @@ Profitability varies drastically even at similar sales volumes.
 Decision Use:
 Identify and reduce dependency on low-margin, high-sales products. Consider adjusting pricing or reducing costs.
 
-* Heatmaps (Profit distribution)
+### Heatmaps (Profit distribution)
 
 Insights:
 
@@ -107,7 +107,7 @@ Eliminate or redesign products consistently in the red zone. Double down on prod
 
 
 
-* Count plots (Product/Category frequency)
+### Count plots (Product/Category frequency)
 
 Insights:
 
@@ -153,48 +153,45 @@ Bundle popular items with low frequency but high profitability items to balance 
 
 
 # ✅ Recommended Business Decisions Based on Analysis
-1. Optimize Product Portfolio
+## 1. Optimize Product Portfolio
 Identify and discontinue products that generate high sales but result in low or negative profit (as seen in the scatter plots and heatmaps).
 
 Focus on top-performing categories (high sales and high profit), such as [insert top profitable category from your analysis—e.g., Tables or Chairs].
 
-2. Improve Pricing Strategy
+## 2. Improve Pricing Strategy
 Products with high sales but low profit indicate possible pricing issues or high costs.
 
 Reassess pricing for such products, or negotiate with suppliers to reduce costs.
 
-3. Promote High-Profit, Low-Sales Products
+## 3. Promote High-Profit, Low-Sales Products
 Use marketing to increase visibility of low-frequency but high-margin products.
 
 Consider bundling these with popular items to boost exposure and sales.
 
-4. Inventory & Demand Planning
+## 4. Inventory & Demand Planning
 Use count plots to align inventory management with product demand.
 
 Avoid overstocking low-frequency items that don’t generate much revenue.
 
-5. Category-Level Strategy
+## 5. Category-Level Strategy
 As shown in the pie chart, a few categories dominate sales.
 
 Consider expanding into underrepresented categories that may have untapped market potential.
 
-6. Remove Loss-Making Items
+## 6. Remove Loss-Making Items
 Heatmaps show clear patterns of loss in certain products/categories.
 
 These should be phased out or re-engineered to improve profit margins.
 
-7. Refine Marketing Campaigns
+## 7. Refine Marketing Campaigns
 Bar plots reveal customer preferences—target advertising toward best-sellers and profitable products.
 
 Also, focus on emerging or niche categories that show signs of growth.
 
-8. Customer-Centric Insights
+## 8. Customer-Centric Insights
 Use insights to create customer personas: e.g., users who frequently buy chairs might be office managers.
 
 Tailor promotions or loyalty programs to their needs.
 
-9. Regularly Monitor Profitability
+## 9. Regularly Monitor Profitability
 Continuously use scatter plots and heatmaps to track changes in profitability over time.
-
-Build a dashboard that alerts management when certain products fall below a profit threshold.
-
