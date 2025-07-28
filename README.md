@@ -129,7 +129,7 @@ Bundle popular items with low frequency but high profitability items to balance 
 
 * The furniture category with the most items is not always the most profitable.
 
-# 🛠️ Technologies Used
+# 🛠️ Tools Used
 * Python
 
 * Pandas
